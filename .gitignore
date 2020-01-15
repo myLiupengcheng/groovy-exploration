@@ -1,0 +1,7 @@
+# IDEA
+.DS_Store
+.idea/
+groovy-exploration.iml
+
+# Class
+out/
